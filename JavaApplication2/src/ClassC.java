@@ -10,4 +10,9 @@
  */
 public class ClassC {
     private String xinebmmmm;
+    private String test;
+    
+    
+    
+    
 }
